@@ -38,23 +38,6 @@ The system calculates tax based on **chargeable income**:
 Then applies Malaysian progressive tax rates to determine tax payable.
 
 
-
-📂 Project Structure
-
-malaysia-tax-calculator/
-│
-├── data/
-│   ├── users.csv
-│   └── tax_records.csv
-│
-├── src/
-│   ├── main.py
-│   └── functions.py
-│
-├── README.md
-
-
-
 🚀 How to Run
 
 1. Install required library:
